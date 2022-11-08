@@ -1,0 +1,65 @@
+.body{
+  background-color: #5D6D7E ;
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+padding-top: 5rem;
+ 
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.border{
+  border: 2px solid black;
+  padding: 5px;
+  background-color: #EBEDEF ;
+  margin-top: 5px;
+ min-width: 30ch;
+}
+
+.Del-btn{
+  background: #EC300A;
+  color: white;
+  font-weight: bolder;
+
+}
+
+h1,h5{
+  /* margin: 15px 0; */
+  font-size: 24px;
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card{
+  max-width: 50rem ;
+  min-width: 10rem;
+  margin: 100px auto;
+  /* background-color: #2E86C1; */
+  padding: 2rem 5rem;
+}
+
+
+.inputform {
+  /* padding: 14px 32px 14px 16px;   */
+  border-radius: 5px ;
+  border: 2px solid black;
+  outline: none;
+  width: 520px;
+  background: transparent;
+  color: #fff;
+}
+
+.Edit-btn{
+  color: white;
+  background-color:#34495E ;
+  font-weight: bolder;
+}
